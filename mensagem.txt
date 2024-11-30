@@ -1,0 +1,2 @@
+Eu quando digito uma frase e guardo num arquivo .txt para retornar depois no terminal
+Essa é oooooutra frase!
